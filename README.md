@@ -1,5 +1,9 @@
-### Hi, I'm Natalia 👋
+✨### Hi, I'm Natalia✨
 
+- 🔭 I’m currently working on SOAP webservices projects for invoice integration.
+- 🌱 I’m currently learning ASP.NET and React.
+- 😄 Pronouns: She/Her
+- 📫 Reach me on [Linkedin](https://www.linkedin.com/in/natalia-coelho-oliveira/)
 <!--
 **natalia-coelho/natalia-coelho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
