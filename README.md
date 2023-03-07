@@ -1,4 +1,4 @@
-✨### Hi, I'm Natalia✨
+### ✨Hi, I'm Natalia✨
 
 - 🔭 I’m currently working on SOAP webservices projects for invoice integration.
 - 🌱 I’m currently learning ASP.NET and React.
