@@ -1,7 +1,7 @@
 ### ✨ Hi, I'm Natalia ✨
 
 - 🔭 I’m currently working on SOAP webservices projects for invoice integration.
-- 🌱 I’m currently learning ASP.NET and React.
+- 🌱 I’m currently deeping my knowledge on Spring Boot and Java.
 - 😄 Pronouns: She/Her.
 
 ##
