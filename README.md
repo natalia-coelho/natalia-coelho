@@ -4,12 +4,12 @@
 - 🌱 I’m currently learning ASP.NET and React.
 - 😄 Pronouns: She/Her.
 
-
+##
 
  <div>
   <a href="https://github.com/natalia-coelho">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=natalia-coelho&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-coelhod&layout=compact&langs_count=7&theme=synthwave "/>
+<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-coelhod&layout=compact&langs_count=7&theme=synthwave "/> -->
 </div>
 
   
