@@ -15,7 +15,7 @@
   
   ##
  
- ### 📫 How to Reach Me
+ ### 📫 How To Reach Me
  
 <div> 
  
