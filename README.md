@@ -15,7 +15,7 @@
  
  <a href="https://github.com/natalia-coelho">
   <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=natalia-coelho&&show_icons=true&hide_title=false&theme=radical&include_all_commits=true&count_private=true" />
-  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-coelho&hide_title=false&hide_border=true&layout=compact" />
+  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-coelho&hide_title=false&hide_border=true&layout=compact&count_private=true&theme=radical" />
 </a>
   
   ##
