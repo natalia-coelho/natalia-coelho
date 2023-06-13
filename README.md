@@ -3,9 +3,10 @@
 - 🔭  I'm working as a software developer at Philips Purchase team. I'm also coursing systems development in college.
 - 🌱  I’m currently trying to expand my knowledge on software architecture and design patterns.
 - 😄 Pronouns: She/Her.
+- 📫 Reach me at buttons below:
 
 <div> 
- 
+
   <a href = "mailto:nataliacoelhx@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/natalia-coelho-oliveira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
