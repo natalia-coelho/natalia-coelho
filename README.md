@@ -1,7 +1,7 @@
 ### ✨ Hi, I'm Natalia ✨
 
-- 🔭 I’m currently working on SOAP webservices projects for invoice integration.
-- 🌱 I’m currently deeping my knowledge on Java, Spring Boot and Unit Tests.
+- 🔭  I'm working as a software developer at Philips Purchase team. I'm also coursing systems development in college.
+- 🌱  I’m currently trying to expand my knowledge on software architecture and design patterns.
 - 😄 Pronouns: She/Her.
 
 <div> 
@@ -14,7 +14,7 @@
 ##
  
  <a href="https://github.com/natalia-coelho">
-  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=natalia-coelho&&show_icons=true&hide_title=false&theme=radical&include_all_commits=true&count_private=true" />
+  <img align="" height="180px" src="https://github-readme-stats.vercel.app/api?username=natalia-coelho&&show_icons=true&hide_title=false&theme=radical&count_private=true" />
   <img align="" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=natalia-coelho&hide_title=false&hide_border=true&layout=compact&count_private=true&theme=radical" />
 </a>
   
