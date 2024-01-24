@@ -1,9 +1,7 @@
 # ✨ Hi, I'm Natalia! ✨
 
 - 🔭  I'm working as a software developer at Benner Group. I'm also graduating in systems development.
-- 🌱  I’m currently trying to expand my knowledge on software architecture and design patterns.
 - 😄 Pronouns: She/Her.
-- 🚀 My purposes: Discipline, focus on what matters and do my best wherever I am.
 - 📫 Reach me at buttons below:
 
 <div> 
