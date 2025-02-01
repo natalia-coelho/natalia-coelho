@@ -1,6 +1,6 @@
 # ✨ Hi, I'm Natalia! ✨
 
-- 🔭  I'm working as a software developer at Benner Group. I'm also graduating in systems development.
+- 🔭  I'm working as a software developer at Localiza Labs. I'm also graduating in systems development.
 - 👾 In order to become a backend specialist I’m currently trying to expand my knowledge on DevOps, software architecture and security measures.
 - 😄 Pronouns: She/Her.
 - 📫 Reach me at buttons below:
